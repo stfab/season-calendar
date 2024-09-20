@@ -4,7 +4,7 @@ A lua script to create a team-specific calendar from a league schedule of the Sp
 
 ## Usage
 
-1. Install lua				
+1. Install Lua 5.1+	
 1. Go to the Sportwinner website and copy the league schedule
 1. Paste the schedule into a file																												
 1. Configure the global variables in the calendar.lua file
