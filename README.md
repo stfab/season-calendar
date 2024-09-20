@@ -1,6 +1,6 @@
 # Season Calendar
 
-A lua script to create a team specific ical file from a league schedule of the Sportwinner website.
+A lua script to create a team-specific calendar from a league schedule of the Sportwinner website.
 
 ## Usage
 
