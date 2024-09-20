@@ -1,0 +1,74 @@
+1. Spieltag
+2 	Sa. 14.09.2024 - 13:00 	RG 1926 Lampertheim 2 (M) 	SG Lampertheim 3 (M) 	5 : 1
+4 	Sa. 14.09.2024 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	DKC 1989 Weinheim 2 (G) 	6 : 0
+3 	So. 15.09.2024 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	Vorwärts Hemsbach 3 (G) 	3 : 3
+1 	Mi. 02.10.2024 - 18:30 	SG ASV / FH Eppelheim 2 (M) 	VKC Eppelheim 4 (G) 	Verlegt
+2. Spieltag
+6 	Sa. 21.09.2024 - 13:30 	Vorwärts Hemsbach 3 (G) 	RG 1926 Lampertheim 2 (M) 	-- : --
+5 	Sa. 21.09.2024 - 14:00 	VKC Eppelheim 4 (G) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+7 	So. 22.09.2024 - 10:00 	DKC 1989 Weinheim 2 (G) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+3. Spieltag
+10 	Sa. 28.09.2024 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+8 	Sa. 28.09.2024 - 14:00 	SG ASV / FH Eppelheim 2 (M) 	SG Lampertheim 3 (M) 	-- : --
+9 	Sa. 19.10.2024 - 13:00 	RG 1926 Lampertheim 2 (M) 	DKC 1989 Weinheim 2 (G) 	Verlegt
+4. Spieltag
+12 	Sa. 05.10.2024 - 13:00 	SG Lampertheim 3 (M) 	VKC Eppelheim 4 (G) 	-- : --
+11 	Sa. 05.10.2024 - 13:30 	Vorwärts Hemsbach 3 (G) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+13 	So. 06.10.2024 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	RG 1926 Lampertheim 2 (M) 	-- : --
+5. Spieltag
+16 	Sa. 26.10.2024 - 13:00 	RG 1926 Lampertheim 2 (M) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+14 	Sa. 26.10.2024 - 14:00 	SG ASV / FH Eppelheim 2 (M) 	DKC 1989 Weinheim 2 (G) 	-- : --
+15 	Sa. 26.10.2024 - 14:00 	VKC Eppelheim 4 (G) 	Vorwärts Hemsbach 3 (G) 	-- : --
+6. Spieltag
+19 	Sa. 02.11.2024 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	SG Lampertheim 3 (M) 	-- : --
+17 	So. 03.11.2024 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+18 	So. 03.11.2024 - 10:00 	DKC 1989 Weinheim 2 (G) 	VKC Eppelheim 4 (G) 	-- : --
+7. Spieltag
+22 	Sa. 16.11.2024 - 13:00 	SG Lampertheim 3 (M) 	Vorwärts Hemsbach 3 (G) 	-- : --
+20 	Sa. 16.11.2024 - 14:00 	SG ASV / FH Eppelheim 2 (M) 	RG 1926 Lampertheim 2 (M) 	-- : --
+21 	Sa. 16.11.2024 - 14:00 	VKC Eppelheim 4 (G) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+8. Spieltag
+23 	Sa. 30.11.2024 - 13:00 	RG 1926 Lampertheim 2 (M) 	VKC Eppelheim 4 (G) 	-- : --
+25 	Sa. 30.11.2024 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	Vorwärts Hemsbach 3 (G) 	-- : --
+24 	So. 01.12.2024 - 10:00 	DKC 1989 Weinheim 2 (G) 	SG Lampertheim 3 (M) 	-- : --
+9. Spieltag
+27 	Sa. 07.12.2024 - 13:00 	SG Lampertheim 3 (M) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+28 	Sa. 07.12.2024 - 13:30 	Vorwärts Hemsbach 3 (G) 	DKC 1989 Weinheim 2 (G) 	-- : --
+26 	Sa. 07.12.2024 - 14:00 	SG ASV / FH Eppelheim 2 (M) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+10. Spieltag
+30 	Sa. 11.01.2025 - 13:00 	SG Lampertheim 3 (M) 	RG 1926 Lampertheim 2 (M) 	-- : --
+31 	Sa. 11.01.2025 - 13:30 	Vorwärts Hemsbach 3 (G) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+29 	Sa. 11.01.2025 - 14:00 	VKC Eppelheim 4 (G) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+32 	So. 12.01.2025 - 10:00 	DKC 1989 Weinheim 2 (G) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+11. Spieltag
+33 	Sa. 18.01.2025 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	VKC Eppelheim 4 (G) 	-- : --
+34 	Sa. 18.01.2025 - 13:00 	RG 1926 Lampertheim 2 (M) 	Vorwärts Hemsbach 3 (G) 	-- : --
+35 	So. 19.01.2025 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	DKC 1989 Weinheim 2 (G) 	-- : --
+12. Spieltag
+36 	Sa. 01.02.2025 - 13:00 	SG Lampertheim 3 (M) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+37 	So. 02.02.2025 - 10:00 	DKC 1989 Weinheim 2 (G) 	RG 1926 Lampertheim 2 (M) 	-- : --
+38 	So. 02.02.2025 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+13. Spieltag
+41 	Sa. 22.02.2025 - 13:00 	RG 1926 Lampertheim 2 (M) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+39 	Sa. 22.02.2025 - 14:00 	SG ASV / FH Eppelheim 2 (M) 	Vorwärts Hemsbach 3 (G) 	-- : --
+40 	Sa. 22.02.2025 - 14:00 	VKC Eppelheim 4 (G) 	SG Lampertheim 3 (M) 	-- : --
+14. Spieltag
+44 	Sa. 08.03.2025 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	RG 1926 Lampertheim 2 (M) 	-- : --
+43 	Sa. 08.03.2025 - 13:30 	Vorwärts Hemsbach 3 (G) 	VKC Eppelheim 4 (G) 	-- : --
+42 	So. 09.03.2025 - 10:00 	DKC 1989 Weinheim 2 (G) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+15. Spieltag
+47 	Sa. 15.03.2025 - 13:00 	SG Lampertheim 3 (M) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+45 	Sa. 15.03.2025 - 14:00 	SG ASV / FH Eppelheim 2 (M) 	KC 80 Kurpfalz NS Plankst. 2 (G) 	-- : --
+46 	Sa. 15.03.2025 - 14:00 	VKC Eppelheim 4 (G) 	DKC 1989 Weinheim 2 (G) 	-- : --
+16. Spieltag
+48 	Sa. 22.03.2025 - 13:00 	RG 1926 Lampertheim 2 (M) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+50 	Sa. 22.03.2025 - 13:30 	Vorwärts Hemsbach 3 (G) 	SG Lampertheim 3 (M) 	-- : --
+49 	So. 23.03.2025 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	VKC Eppelheim 4 (G) 	-- : --
+17. Spieltag
+52 	Sa. 05.04.2025 - 13:00 	SG Lampertheim 3 (M) 	DKC 1989 Weinheim 2 (G) 	-- : --
+53 	Sa. 05.04.2025 - 13:30 	Vorwärts Hemsbach 3 (G) 	SKC Edingen-Neckarhausen 2 (G) 	-- : --
+51 	Sa. 05.04.2025 - 14:00 	VKC Eppelheim 4 (G) 	RG 1926 Lampertheim 2 (M) 	-- : --
+18. Spieltag
+54 	Sa. 12.04.2025 - 13:00 	SKC Edingen-Neckarhausen 2 (G) 	SG ASV / FH Eppelheim 2 (M) 	-- : --
+55 	So. 13.04.2025 - 10:00 	KC 80 Kurpfalz NS Plankst. 2 (G) 	SG Lampertheim 3 (M) 	-- : --
+56 	So. 13.04.2025 - 10:00 	DKC 1989 Weinheim 2 (G) 	Vorwärts Hemsbach 3 (G) 	-- : --
